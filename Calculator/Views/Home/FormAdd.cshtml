@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8'>
+  <title>Addition!</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+</head>
+
+<body>
+  <div class="container">
+  <h1>Enter two numbers to Add:</h1>
+  @* <a href="/FormPuppy">Click here for a story about a puppy!</a> *@
+  <form action="/add" method="post">
+    <label for="add1">First Number</label>
+    <input id="add1" name="add1" type="number" step="0.01">
+    <label for="add2">Second Number</label>
+    <input id="add2" name="add2" type="number" step="0.01">
+
+    <button type="submit">Add!</button>
+  </form>
+  </div>
+</body>
+
+</html>

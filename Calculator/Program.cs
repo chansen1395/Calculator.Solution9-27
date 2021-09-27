@@ -1,7 +1,7 @@
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 
-namespace MadLib
+namespace Calculator
 {
   public class Program
   {
