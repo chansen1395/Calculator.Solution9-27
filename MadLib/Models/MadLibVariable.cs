@@ -11,4 +11,13 @@ namespace MadLib.Models
     public string Creature { get; set; }
     public string PastVerb3 { get; set; }
   }
+
+  public class PuppyVariable
+  {
+    public string Color { get; set; }
+    public string Name { get; set; }
+    public string PastVerb { get; set; }
+    public string Adjective { get; set; }
+    public string Dinosaur { get; set; }
+  }
 }
