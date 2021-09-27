@@ -2,12 +2,11 @@
 
 #### Brief Description
 
-#### By Benjamin Wilson
+#### By Connor Hansen
 
 ## Technologies Used
 
 * C#
-* MSTest
 * .NET
 
 ## Description
@@ -30,8 +29,6 @@ _description of program here_
 
 * [MIT License](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2021 Benjamin Wilson
+Copyright (c) 2021 Connor Hansen
 
 ## Contact Information
-
-<benjaminw1030@gmail.com>
